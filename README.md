@@ -27,7 +27,7 @@ Deliverable: [Click EduBridge-Nigeria-Business-Case Here](https://github.com/ola
 
 The BRD documents the business needs, project scope, stakeholder requirements, User Stories and proposed system capabilities.
 
-Deliverable:[Click EduBridge-BRD Here ]()
+Deliverable:[Click EduBridge-BRD Here ](https://github.com/ola-analyses/EDUBRIDGE-NIGERIA/blob/main/EduBridge%20Nigeria%20(BRD).pdf)
 
 ## Process Overview
 
@@ -45,6 +45,7 @@ Deliverable:[Click EduBridge-BRD Here ]()
  Student → Identifies that they do not understand a topic → Asks subject teacher for help → Teacher unavailable → Attempts to borrow textbook → Textbook already borrowed → Visits cybercafe for YouTube tutorial → Internet access/cost becomes a barrier → Considers buying revision guide → Cost becomes a barrier → Searches for another available resource → Learning gap may remain unresolved 
 ![Future-State Process Map](https://github.com/ola-analyses/EDUBRIDGE-NIGERIA/blob/main/Future%20state%20Edubrige.png)
 
+[Future-State Process Map](https://miro.com/app/board/uXjVH6Xvk9U=/?share_link_id=269601881494)
 # Dataset
 The project uses a structured 12-month dataset to analyse key platform performance, engagement, and user satisfaction indicators.
 
